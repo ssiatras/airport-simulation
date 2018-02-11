@@ -1,0 +1,15 @@
+Atlanta, Georgia (ATL);5;4;26;33
+Chaoyang-Shunyi, Beijing (PEK);1;6;47;58
+Garhoud, Dubai (DXB);20;10;50;50
+Los Angeles, California (LAX);6;9;21;43
+Ota, Tokyo (HND);10;2;32;48
+Chicago, Illinois (ORD);15;15;21;28
+Hillingdon, London (LHR);3;7;62;8
+Chek Lap Kok, Hong Kong (HKG);3;13;34;29
+Pudong, Shanghai (PVG);9;11;19;45
+Dallas-Fort Worth, Texas (DFW);22;16;21;24
+Haarlemmermeer, North Holland (AMS);7;8;26;35
+Frankfurt, Hesse (FRA);12;9;55;15
+Baiyun-Huadu, Guangzhou, Guangdong (CAN);16;13;25;45
+Queens, New York City (JFK);11;4;27;31
+Changi, Singapore (SIN);17;3;25;28

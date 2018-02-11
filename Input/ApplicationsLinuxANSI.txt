@@ -1,0 +1,20 @@
+1;Corey;Marks;Atlanta, Georgia (ATL);1;17;A
+2;Gerardo;Harris;Chaoyang-Shunyi, Beijing (PEK);3;14;A
+3;Kamryn;Curry;Los Angeles, California (LAX);7;11;B
+4;Mohammed;Jennings;Chaoyang-Shunyi, Beijing (PEK);1;40;B
+5;Trent;Mccormick;Atlanta, Georgia (ATL);10;25;A
+6;Laurel;Vega;Baiyun-Huadu, Guangzhou, Guangdong (CAN);11;17;B
+7;Kaleb;Garrett;Queens, New York City (JFK);1;9;A
+8;Jayson;Meza;Ota, Tokyo (HND);4;15;B
+9;Saul;Howe;Atlanta, Georgia (ATL);6;12;B
+10;Samson;Wheeler;Ota, Tokyo (HND);3;21;A
+11;Jayvon;Terrell;Frankfurt, Hesse (FRA);2;35;A
+12;Adeline;Bautista;Frankfurt, Hesse (FRA);8;14;B
+13;Erika;Webster;Ota, Tokyo (HND);7;17;B
+14;Shaniya;Avila;Frankfurt, Hesse (FRA);8;14;B
+15;Ayana;Chaney;Hillingdon, London (LHR);0;18;B
+16;Joy;Montoya;Chek Lap Kok, Hong Kong (HKG);0;8;A
+17;Autumn;Lambert;Frankfurt, Hesse (FRA);3;4;B
+18;Edwin;Holt;Ota, Tokyo (HND);6;14;B
+19;Audrey;Gilbert;Frankfurt, Hesse (FRA);5;19;B
+20;Greyson;Collier;Hillingdon, London (LHR);9;27;A
