@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	}
 
 	ifstream flights;
-	flights.open("./Input/FlightsLinuxANSI.txt");
+	flights.open("./input/FlightsLinuxANSI.txt");
 	if (!flights) { // Checks open() failure
 		cout << "Cannot open file of flights. Exiting..." << endl;
 
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	flights.close();
 
 	ifstream applications;
-	applications.open("./Input/ApplicationsLinuxANSI.txt");
+	applications.open("./input/ApplicationsLinuxANSI.txt");
 	if (!applications) { // Checks open() failure
 		cout << "Cannot open file of applications. Exiting..." << endl;
 
