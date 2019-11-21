@@ -1,17 +1,17 @@
 # Airport Simulation
 Simulation of a subway train.
 
-### Compilation
+## Compilation
 `$ make clean`
 
 `$ make`
 
-### Usage
+## Usage
 Command line arguments are optional.
 
 `$ ./airport_simulation <Current Time> <Number of Terminals>`
 
-### Design Decisions
+## Design Decisions
 There are three classes: **Application**, **Flight** and **Airport**.
 -  **Flight**:
   Bookings are represented as a vector of pointers to Applications. This choice was made in order to get easily the read-only access to the bookings. Otherwise, an array would have been preferred, since the size is fixed.
