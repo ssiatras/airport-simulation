@@ -1,5 +1,5 @@
 # Airport Simulation
-Simulation of a subway train.
+Simulation of an airport.
 
 ## Compilation
 `$ make clean`
