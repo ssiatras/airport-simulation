@@ -2,13 +2,11 @@
 Simulation of an airport.
 
 ## Compilation
-`$ make clean`
-
+`$ make clean`  
 `$ make`
 
 ## Usage
-Command line arguments are optional.
-
+Command line arguments are optional.  
 `$ ./airport_simulation <Current Time> <Number of Terminals>`
 
 ## Design Decisions
